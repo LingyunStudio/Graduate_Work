@@ -36,9 +36,8 @@
 5. 手机；
 
 
-设备侧代码在另一仓库，地址：[CQUPTLei / Neptune_w800_project](https://github.com/CQUPTLei/Neptune_w800_project)
+设备侧代码在另一仓库，地址：https://github.com/LingyunStudio/Neptune_w800_project
 
 
 时间：2022-05-31
 
-作者：CQUPTLEI
